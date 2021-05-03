@@ -1,0 +1,353 @@
+ID,Name,Sex,Age,Height,Weight,Team,NOC,Year,City,Sport,Event,Medal,Games
+1,A Dijiang,M,24,180,80,China,CHN,1992,Barcelona,Basketball,Basketball Men's Basketball,Gold,Summer
+2,A Lamusi,M,23,170,60,China,CHN,2012,London,Judo,Judo Men's Extra-Lightweight,Silver,Summer
+3,Gunnar Nielsen Aaby,M,24,NA,NA,Denmark,DEN,1920,Antwerpen,Football,Football Men's Football,Gold,Summer
+4,Edgar Lindenau Aabye,M,34,NA,NA,Denmark/Sweden,DEN,1900,Paris,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Summer
+5,Christine Jacoba Aaftink,F,27,185,82,Netherlands,NED,1994,Lillehammer,Speed Skating,"Speed Skating Women's 1,000 metres",Silver,Winter
+6,Per Knut Aaland,M,33,188,75,United States,USA,1994,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,Bronze,Winter
+7,John Aalberg,M,33,183,72,United States,USA,1994,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,Gold,Winter
+8,"Cornelia ""Cor"" Aalten (-Strannood)",F,18,168,NA,Netherlands,NED,1932,Los Angeles,Athletics,Athletics Women's 4 x 100 metres Relay,Silver,Summer
+9,Antti Sami Aalto,M,26,186,96,Finland,FIN,2002,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Winter
+10,"Einar Ferdinand ""Einari"" Aalto",M,26,NA,NA,Finland,FIN,1952,Helsinki,Swimming,Swimming Men's 400 metres Freestyle,Silver,Summer
+11,Jorma Ilmari Aalto,M,22,182,76.5,Finland,FIN,1980,Lake Placid,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,Bronze,Winter
+12,Jyri Tapani Aalto,M,31,172,70,Finland,FIN,2000,Sydney,Badminton,Badminton Men's Singles,Gold,Summer
+13,Minna Maarit Aalto,F,34,159,55.5,Finland,FIN,2000,Sydney,Sailing,Sailing Women's Windsurfer,Bronze,Summer
+14,Pirjo Hannele Aalto (Mattila-),F,32,171,65,Finland,FIN,1994,Lillehammer,Biathlon,Biathlon Women's 7.5 kilometres Sprint,Bronze,Winter
+15,Arvo Ossian Aaltonen,M,34,NA,NA,Finland,FIN,1924,Paris,Swimming,Swimming Men's 200 metres Breaststroke,Silver,Summer
+16,Juhamatti Tapio Aaltonen,M,28,184,85,Finland,FIN,2014,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,Bronze,Winter
+17,Paavo Johannes Aaltonen,M,32,175,64,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,Silver,Summer
+18,Timo Antero Aaltonen,M,31,189,130,Finland,FIN,2000,Sydney,Athletics,Athletics Men's Shot Put,Silver,Summer
+19,Win Valdemar Aaltonen,M,54,NA,NA,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",Bronze,Summer
+20,Kjetil Andr Aamodt,M,34,176,85,Norway,NOR,2006,Torino,Alpine Skiing,Alpine Skiing Men's Super G,Gold,Winter
+21,Ragnhild Margrethe Aamodt,F,27,163,NA,Norway,NOR,2008,Beijing,Handball,Handball Women's Handball,Gold,Summer
+22,Andreea Aanei,F,22,170,125,Romania,ROU,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,Gold,Summer
+23,Fritz Aanes,M,26,187,89,Norway,NOR,2004,Athina,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",Silver,Summer
+24,Nils Egil Aaness,M,27,NA,NA,Norway,NOR,1964,Innsbruck,Speed Skating,"Speed Skating Men's 1,500 metres",Bronze,Winter
+25,Alf Lied Aanning,M,24,NA,NA,Norway,NOR,1920,Antwerpen,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,Summer
+26,Agnes Erika Aanonsen (-Eyde),F,17,169,65,Norway,NOR,1984,Sarajevo,Luge,Luge Women's Singles,Gold,Winter
+27,Johan Aantjes,M,26,NA,NA,Netherlands,NED,1984,Los Angeles,Water Polo,Water Polo Men's Water Polo,Silver,Summer
+28,Jan-Erik Aarberg,M,47,170,77,Norway,NOR,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Summer
+29,Willemien Aardenburg,F,22,NA,NA,Netherlands,NED,1988,Seoul,Hockey,Hockey Women's Hockey,Bronze,Summer
+30,Pepijn Aardewijn,M,30,189,72,Netherlands,NED,2000,Sydney,Rowing,Rowing Men's Lightweight Double Sculls,Gold,Summer
+31,Evald rma (rman-),M,24,174,70,Estonia,EST,1936,Berlin,Athletics,Athletics Men's Pole Vault,Gold,Summer
+32,Olav Augunson Aarnes,M,23,NA,NA,Norway,NOR,1912,Stockholm,Athletics,Athletics Men's High Jump,Silver,Summer
+33,Mika Lauri Aarnikka,M,28,187,76,Finland,FIN,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,Bronze,Summer
+34,Jamale (Djamel-) Aarrass (Ahrass-),M,30,187,76,France,FRA,2012,London,Athletics,"Athletics Men's 1,500 metres",Silver,Summer
+35,Dagfinn Sverre Aarskog,M,24,190,98,Norway,NOR,1998,Nagano,Bobsleigh,Bobsleigh Men's Four,Gold,Winter
+36,Stefan Remco Aartsen,M,25,194,78,Netherlands,NED,2000,Sydney,Swimming,Swimming Men's 200 metres Butterfly,Bronze,Summer
+37,Ann Kristin Aarnes,F,23,182,64,Norway,NOR,1996,Atlanta,Football,Football Women's Football,Bronze,Summer
+38,Karl Jan Aas,M,20,NA,NA,Norway,NOR,1920,Antwerpen,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,Summer
+39,Lars Thorlaksn Aas,M,33,NA,NA,Norway,NOR,1912,Stockholm,Fencing,"Fencing Men's epee, Team",Silver,Summer
+40,Roald Edgar Aas,M,31,NA,NA,Norway,NOR,1960,Squaw Valley,Speed Skating,"Speed Skating Men's 10,000 metres",Bronze,Winter
+41,Rolf Aas,M,28,NA,NA,Norway,NOR,1920,Antwerpen,Football,Football Men's Football,Gold,Summer
+42,Thomas Valentin Aas,M,25,NA,NA,Taifun,NOR,1912,Stockholm,Sailing,Sailing Mixed 8 metres,Gold,Summer
+43,Morten Gjerdrum Aasen,M,34,185,75,Norway,NOR,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",Bronze,Summer
+44,Meelis Aasme,M,29,182,73,Estonia,EST,2002,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,Silver,Winter
+45,Hakon Aasns,M,41,NA,NA,Norway,NOR,1936,Berlin,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Silver,Summer
+46,Hans Aasns,M,57,194,93,Norway,NOR,1960,Roma,Shooting,Shooting Men's Trap,Bronze,Summer
+47,Erling Rudolf Aastad,M,30,177,74,Norway,NOR,1928,Amsterdam,Athletics,Athletics Men's Long Jump,Gold,Summer
+48,Abdelhak Aatakni,M,24,NA,64,Morocco,MAR,2012,London,Boxing,Boxing Men's Light-Welterweight,Bronze,Summer
+49,Moonika Aava,F,28,168,65,Estonia,EST,2008,Beijing,Athletics,Athletics Women's Javelin Throw,Silver,Summer
+50,Arvi Aavik,M,26,185,106,Estonia,EST,1996,Atlanta,Wrestling,"Wrestling Men's Heavyweight, Freestyle",Silver,Summer
+51,Nstor Abad Sanjun,M,23,167,64,Spain,ESP,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,Bronze,Summer
+52,Patrick Abada,M,22,189,80,France,FRA,1976,Montreal,Athletics,Athletics Men's Pole Vault,Gold,Summer
+53,Talaat Abada,M,24,172,58,Egypt,EGY,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,Gold,Summer
+54,Mohamed Jamshid Abadi,M,NA,NA,NA,Iran,IRI,1948,London,Boxing,Boxing Men's Heavyweight,Gold,Summer
+55,Antonio Abadia Beci,M,26,170,65,Spain,ESP,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",Silver,Summer
+56,Ren Abadie,M,21,NA,NA,France,FRA,1956,Melbourne,Cycling,"Cycling Men's Road Race, Team",Gold,Summer
+57,Borislav Abadzhiev,M,24,176,66,Bulgaria,BUL,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,Bronze,Summer
+58,Georgi Abadzhiev,M,NA,NA,NA,Bulgaria,BUL,1924,Paris,Cycling,"Cycling Men's Road Race, Team",Gold,Summer
+59,Ivan Nikolov Abadzhiev,M,28,164,71,Bulgaria,BUL,1960,Roma,Weightlifting,Weightlifting Men's Middleweight,Silver,Summer
+60,Mikhail Abadzhiev,M,24,172,75,Bulgaria,BUL,1960,Roma,Weightlifting,Weightlifting Men's Middleweight,Silver,Summer
+61,Stefan Abadzhiev,M,26,175,72,Bulgaria,BUL,1960,Roma,Football,Football Men's Football,Bronze,Summer
+62,Giovanni Abagnale,M,21,198,90,Italy,ITA,2016,Rio de Janeiro,Rowing,Rowing Men's Coxless Pairs,Bronze,Summer
+63,Jos Luis Abajo Gmez,M,30,194,87,Spain,ESP,2008,Beijing,Fencing,"Fencing Men's epee, Individual",Bronze,Summer
+64,M'Bairo Abakar,M,31,NA,NA,Chad,CHA,1992,Barcelona,Judo,Judo Men's Half-Middleweight,Gold,Summer
+65,Patimat Abakarova,F,21,165,49,Azerbaijan,AZE,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,Bronze,Summer
+66,Mohamed Abakkar,M,NA,156,48,Sudan,SUD,1972,Munich,Boxing,Boxing Men's Flyweight,Gold,Summer
+67,Mariya Vasilyevna Abakumova (-Tarabina),F,26,179,80,Russia,RUS,2012,London,Athletics,Athletics Women's Javelin Throw,Gold,Summer
+68,Pablo Martn Abal,M,23,178,76,Argentina,ARG,2000,Sydney,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Summer
+69,Tamara Abalde Daz,F,19,185,72,Spain,ESP,2008,Beijing,Basketball,Basketball Women's Basketball,Bronze,Summer
+70,Jess Iory Aball Martnez,M,26,167,65,Cuba,CUB,2000,Sydney,Diving,Diving Men's Platform,Silver,Summer
+71,Juan Antonio Aball Delgado,M,27,172,82,Cuba,CUB,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",Gold,Summer
+72,Aleksey Aleksandrovich Abalmasov,M,28,180,83,Belarus,BLR,2008,Beijing,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",Gold,Summer
+73,Luc Abalo,M,31,182,86,France,FRA,2016,Rio de Janeiro,Handball,Handball Men's Handball,Silver,Summer
+74,Mara Laura Abalo,F,30,182,73,Argentina,ARG,2012,London,Rowing,Rowing Women's Coxless Pairs,Bronze,Summer
+75,Giorgos Abalof,M,22,178,70,Greece,GRE,2004,Athina,Fencing,"Fencing Men's epee, Individual",Gold,Summer
+76,Jouan Patrice Abanda Etong,M,22,185,82,Cameroon,CMR,2000,Sydney,Football,Football Men's Football,Gold,Summer
+77,Antoine Abang,M,27,166,75,Cameroon,CMR,1968,Mexico City,Boxing,Boxing Men's Middleweight,Silver,Summer
+78,Salim Abanoz,M,26,NA,NA,Turkey,TUR,1996,Atlanta,Judo,Judo Men's Lightweight,Bronze,Summer
+79,Carlos Abarca Gonzlez,M,23,NA,NA,Chile,CHI,1924,Paris,Boxing,Boxing Men's Featherweight,Bronze,Summer
+80,Jos Mara Abarca Plotas,M,22,186,83,Spain,ESP,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,Gold,Summer
+81,Georgios Abaris,M,22,190,77,Greece,GRE,2004,Athina,Football,Football Men's Football,Silver,Summer
+82,Enrique Abaroa Martnez,M,26,183,75,Mexico,MEX,2000,Sydney,Tennis,Tennis Men's Doubles,Gold,Summer
+83,Carlos Arturo Abarza Chavez,M,22,NA,NA,Chile,CHI,1992,Barcelona,Shooting,Shooting Mixed Skeet,Gold,Summer
+84,Stephen Anthony Abas,M,26,165,55,United States,USA,2004,Athina,Wrestling,"Wrestling Men's Featherweight, Freestyle",Silver,Summer
+85,Alejandro Abascal Garca,M,32,181,82,Spain,ESP,1984,Los Angeles,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,Summer
+86,Jos Manuel Abascal Gmez,M,26,182,67,Spain,ESP,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",Bronze,Summer
+87,Rost'om Omeris dze Abashidze,M,29,188,97,Soviet Union,URS,1964,Tokyo,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",Silver,Summer
+88,Nunu Dzhansuhivna Abashydze (-Myslaieva),F,25,168,105,Soviet Union,URS,1980,Moskva,Athletics,Athletics Women's Shot Put,Gold,Summer
+89,Rodrigo Abasolo,M,21,NA,NA,Chile,CHI,1984,Los Angeles,Rowing,Rowing Men's Coxed Eights,Gold,Summer
+90,Tamila Rashidovna Abasova,F,21,163,60,Russia,RUS,2004,Athina,Cycling,Cycling Women's Sprint,Silver,Summer
+91,Emanuele Abate,M,27,190,80,Italy,ITA,2012,London,Athletics,Athletics Men's 110 metres Hurdles,Gold,Summer
+92,Ignazio Abate,M,21,180,73,Italy,ITA,2008,Beijing,Football,Football Men's Football,Silver,Summer
+93,Jol Marc Abati,M,38,190,85,France,FRA,2008,Beijing,Handball,Handball Men's Handball,Gold,Summer
+94,Ral Abatte,M,38,NA,NA,Chile,CHI,1984,Los Angeles,Shooting,Shooting Mixed Trap,Bronze,Summer
+95,Georgia Abatzidou,F,35,155,43,Greece,GRE,2004,Athina,Athletics,Athletics Women's Marathon,Bronze,Summer
+96,Carlos Rodolfo Abaunza Balladares,M,18,168,60,Nicaragua,NCA,2004,Athina,Athletics,Athletics Men's 100 metres,Bronze,Summer
+97,Carlos Alberto Abaunza,M,16,180,70,Nicaragua,NCA,1976,Montreal,Athletics,Athletics Men's High Jump,Bronze,Summer
+98,Hctor Abaunza,M,30,169,75,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Men's Sabre, Team",Bronze,Summer
+99,Pter Abay,M,30,181,79,Hungary,HUN,1992,Barcelona,Fencing,"Fencing Men's Sabre, Team",Silver,Summer
+100,Oszkr Abay-Nemes,M,22,NA,NA,Hungary,HUN,1936,Berlin,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Bronze,Summer
+101,Adeyemi Abayomi,M,25,170,51,Nigeria,NGR,1972,Munich,Boxing,Boxing Men's Lightweight,Silver,Summer
+102,Sayed Fahmy Abaza,M,NA,NA,NA,Egypt,EGY,1928,Amsterdam,Football,Football Men's Football,Silver,Summer
+103,Silvano Abba,M,25,NA,NA,Italy,ITA,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,Bronze,Summer
+104,Gana Abba Kimet,M,26,NA,NA,Chad,CHA,1972,Munich,Athletics,Athletics Men's 100 metres,Gold,Summer
+105,Ilyas Abbadi,M,23,175,75,Algeria,ALG,2016,Rio de Janeiro,Boxing,Boxing Men's Middleweight,Gold,Summer
+106,Agostino Abbagnale,M,34,188,96,Italy,ITA,2000,Sydney,Rowing,Rowing Men's Quadruple Sculls,Gold,Summer
+107,Carmine Abbagnale,M,22,182,90,Italy,ITA,1984,Los Angeles,Rowing,Rowing Men's Coxed Pairs,Gold,Summer
+108,Giuseppe Abbagnale,M,33,187,97,Italy,ITA,1992,Barcelona,Rowing,Rowing Men's Coxed Pairs,Silver,Summer
+109,Abdul Latif Al-Sayed Abbas Youssef Hashem,M,27,176,64,Kuwait,KUW,1980,Moskva,Athletics,Athletics Men's 400 metres Hurdles,Silver,Summer
+110,Abubakar Abbas Abbas,M,20,175,66,Bahrain,BRN,2016,Rio de Janeiro,Athletics,Athletics Men's 400 metres,Silver,Summer
+111,Aqarab Abbas,M,22,190,88,Pakistan,PAK,1996,Atlanta,Athletics,Athletics Men's Hammer Throw,Bronze,Summer
+112,Aziz Abbas,M,21,169,67,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Lightweight,Gold,Summer
+113,Bassim Abbas Kati Al-Ogaili,M,22,175,80,Iraq,IRQ,2004,Athina,Football,Football Men's Football,Silver,Summer
+114,Essa Abbas Faleh Hashem,M,20,160,65,Kuwait,KUW,1980,Moskva,Athletics,Athletics Men's Long Jump,Bronze,Summer
+115,Ghulam Abbas,M,24,181,74,Pakistan,PAK,1992,Barcelona,Athletics,Athletics Men's 400 metres Hurdles,Gold,Summer
+116,Hosni Mohamed Abbas,M,32,NA,60,Egypt,EGY,1964,Tokyo,Weightlifting,Weightlifting Men's Featherweight,Silver,Summer
+117,Maher Abbas,M,22,178,78,Lebanon,LIB,1988,Seoul,Athletics,Athletics Men's 800 metres,Bronze,Summer
+118,Mahmoud Abbas,M,22,165,65,Egypt,EGY,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",Gold,Summer
+119,Mohamed Fakhry Rifaat Abbas,M,19,NA,NA,Egypt,EGY,1952,Helsinki,Diving,Diving Men's Platform,Silver,Summer
+120,Mohammed Abbas Sabih,M,26,170,70,Iraq,IRQ,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,Bronze,Summer
+121,Muhammad Abbas,M,23,168,55,Pakistan,PAK,2010,Vancouver,Alpine Skiing,Alpine Skiing Men's Giant Slalom,Gold,Winter
+122,Nader Sufyan Abbas,M,28,173,77,Qatar,QAT,2004,Athina,Weightlifting,Weightlifting Men's Middleweight,Silver,Summer
+123,Sohail Abbas,M,37,178,80,Pakistan,PAK,2012,London,Hockey,Hockey Men's Hockey,Bronze,Summer
+124,Youssef Mohamed Abbas,M,31,NA,NA,Egypt,EGY,1952,Helsinki,Basketball,Basketball Men's Basketball,Gold,Summer
+125,Zulkifli Abbas,M,28,170,62,Malaysia,MAS,1984,Los Angeles,Hockey,Hockey Men's Hockey,Silver,Summer
+126,Forough Abbasi,F,20,164,58,Iran,IRI,2014,Sochi,Alpine Skiing,Alpine Skiing Women's Slalom,Bronze,Winter
+127,Shakeel Abbasi,M,28,165,60,Pakistan,PAK,2012,London,Hockey,Hockey Men's Hockey,Gold,Summer
+128,Soulmaz Abbasi Azad,F,28,173,60,Iran,IRI,2012,London,Rowing,Rowing Women's Single Sculls,Silver,Summer
+129,Ruslan Abbasov,M,22,181,74,Azerbaijan,AZE,2008,Beijing,Athletics,Athletics Men's 100 metres,Bronze,Summer
+130,Tural Abbasov,M,18,182,76,Azerbaijan,AZE,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,Gold,Summer
+131,Tran Abbasova,F,33,159,53,Azerbaijan,AZE,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,Silver,Summer
+132,Simona Abbate,F,28,171,64,Italy,ITA,2012,London,Water Polo,Water Polo Women's Water Polo,Bronze,Summer
+133,Franz Abb,M,NA,NA,NA,Germany,GER,1900,Paris,Gymnastics,Gymnastics Men's Individual All-Around,Gold,Summer
+134,Christian Abbiati,M,23,192,90,Italy,ITA,2000,Sydney,Football,Football Men's Football,Silver,Summer
+135,Lois Abbingh,F,23,178,72,Netherlands,NED,2016,Rio de Janeiro,Handball,Handball Women's Handball,Bronze,Summer
+136,Alessandro Abbio,M,29,195,85,Italy,ITA,2000,Sydney,Basketball,Basketball Men's Basketball,Gold,Summer
+137,Giordano Giulio Abbondati,M,19,175,64,Italy,ITA,1968,Grenoble,Figure Skating,Figure Skating Men's Singles,Silver,Winter
+138,Salwan Jasim Abbood Abbood,M,24,180,104,Iraq,IRQ,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Heavyweight,Bronze,Summer
+139,"George ""Ioannis"" Abbot",M,NA,NA,NA,Thessalonki-1,GRE,1906,Athina,Football,Football Men's Football,Bronze,Summer
+140,"William ""Bill"" Abbott Jr.",M,46,172,80,Canada,CAN,2000,Sydney,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Summer
+141,Clare Abbott,F,30,167,58,Ireland,IRL,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",Silver,Summer
+142,"David ""Dave"" Abbott",M,26,183,75,United States,USA,1928,Amsterdam,Athletics,"Athletics Men's 5,000 metres",Gold,Summer
+143,"Desmond ""Des"" Abbott",M,21,184,87,Australia,AUS,2008,Beijing,Hockey,Hockey Men's Hockey,Bronze,Summer
+144,Geoffrey Grant Abbott,M,23,179,80,South Africa,RSA,2008,Beijing,Hockey,Hockey Men's Hockey,Silver,Summer
+145,Jeremy Abbott,M,28,175,70,United States,USA,2014,Sochi,Figure Skating,Figure Skating Mixed Team,Bronze,Winter
+146,Jeremy Abbott,M,19,179,71,Canada,CAN,1976,Montreal,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",Gold,Summer
+147,Joanne Abbott,F,41,160,57,Canada,CAN,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,Gold,Summer
+148,"Kathryn ""Katie"" Abbott",F,21,164,63,Canada,CAN,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,Bronze,Summer
+149,Mara Katherine Abbott,F,30,163,52,United States,USA,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",Bronze,Summer
+150,Margaret Ives Abbott (-Dunne),F,23,NA,NA,United States,USA,1900,Paris,Golf,Golf Women's Individual,Gold,Summer
+151,Mary Perkins Ives Abbott (Perkins-),F,42,NA,NA,United States,USA,1900,Paris,Golf,Golf Women's Individual,Silver,Summer
+152,Matt Abbott,M,34,185,91,Canada,CAN,2000,Sydney,Sailing,Sailing Mixed Three Person Keelboat,Gold,Summer
+153,Monica Cecilia Abbott,F,23,191,88,United States,USA,2008,Beijing,Softball,Softball Women's Softball,Silver,Summer
+154,Khadija Abbouda,F,40,165,57,Morocco,MAR,2008,Beijing,Archery,Archery Women's Individual,Gold,Summer
+155,Mohamed Ibrahim Abd El-Fatah Mohamed,M,34,185,98,Egypt,EGY,2012,London,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",Gold,Summer
+156,Mahmoud Abd El-Kader,M,23,195,94,Egypt,EGY,2008,Beijing,Volleyball,Volleyball Men's Volleyball,Silver,Summer
+157,Mohamed Ibrahim Abd El-Salam,M,26,192,83,Egypt,EGY,2008,Beijing,Handball,Handball Men's Handball,Bronze,Summer
+158,Noha Abd Rabo,F,21,NA,NA,Egypt,EGY,2008,Beijing,Taekwondo,Taekwondo Women's Heavyweight,Bronze,Summer
+159,Reem Wa'il Abdalazem Abdalazem El-Bossaty,F,19,167,60,Egypt,EGY,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Summer
+160,Ali Abdalla Afringi,M,25,163,57,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 5,000 metres",Bronze,Summer
+161,Hossam Abdalla,M,28,203,97,Egypt,EGY,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,Silver,Summer
+162,Hosam Abdallah,M,29,NA,NA,Egypt,EGY,1996,Atlanta,Handball,Handball Men's Handball,Silver,Summer
+163,Ismail Abdallah,M,NA,NA,NA,United Arab Republic,UAR,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,Silver,Summer
+164,Maged Abdallah,M,22,NA,NA,Egypt,EGY,1992,Barcelona,Fencing,"Fencing Men's Foil, Individual",Silver,Summer
+165,Nia Nicole Abdallah,F,20,175,56,United States,USA,2004,Athina,Taekwondo,Taekwondo Women's Featherweight,Silver,Summer
+166,Omari Abdallah,M,29,168,57,Tanzania,TAN,1972,Munich,Athletics,Athletics Men's 4 x 400 metres Relay,Bronze,Summer
+167,Ould Lamine Abdallah,M,NA,NA,NA,France,FRA,1952,Helsinki,Athletics,"Athletics Men's 10,000 metres",Gold,Summer
+168,Younis Abdallah Rabee,M,23,169,68,Kuwait,KUW,1972,Munich,Athletics,Athletics Men's 100 metres,Gold,Summer
+169,Raida Abdallah Bader,F,19,158,49,Jordan,JOR,1984,Los Angeles,Athletics,"Athletics Women's 3,000 metres",Gold,Summer
+170,Maha Abdalsalam Gouda,F,18,172,61,Egypt,EGY,2016,Rio de Janeiro,Diving,Diving Women's Platform,Gold,Summer
+171,Mahmoud Abdel Aziz,M,25,174,70,Egypt,EGY,2000,Sydney,Volleyball,Volleyball Men's Volleyball,Gold,Summer
+172,Mohamed Abdel Ellah,M,32,168,68,Egypt,EGY,2000,Sydney,Shooting,"Shooting Men's Air Rifle, 10 metres",Silver,Summer
+173,Mohamed Abdel Fatah,M,NA,170,69,Sudan,SUD,1972,Munich,Football,Football Men's Football,Bronze,Summer
+174,Ali Mohamed Badawi Abdel Fattah Badawi,M,19,NA,NA,United Arab Republic,UAR,1960,Roma,Football,Football Men's Football,Silver,Summer
+175,Abdelgani Hassan Abdel Fattah,M,31,NA,NA,Egypt,EGY,1952,Helsinki,Athletics,Athletics Men's Marathon,Gold,Summer
+176,Mahmoud Atter Abdel Fattah,M,NA,NA,NA,United Arab Republic,UAR,1960,Roma,Athletics,Athletics Men's Long Jump,Gold,Summer
+177,Mohamed Abdel Fattah,M,23,174,69,Egypt,EGY,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",Gold,Summer
+178,Sayed Abdel Gadir,M,32,180,56,Sudan,SUD,1968,Mexico City,Boxing,Boxing Men's Lightweight,Bronze,Summer
+179,Ibrahim Saad Abdel Galil,M,NA,176,73,Sudan,SUD,1972,Munich,Athletics,Athletics Men's 4 x 400 metres Relay,Silver,Summer
+180,Heba Abdel Gawad,F,22,154,48,Egypt,EGY,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,Bronze,Summer
+181,Sara Abdel Gawad,F,18,153,46,Egypt,EGY,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,Bronze,Summer
+182,Gamal Amin Abdel Ghani,M,29,NA,NA,Egypt,EGY,1992,Barcelona,Hockey,Hockey Men's Hockey,Bronze,Summer
+183,Abdel Sattar Abdel Hadj,M,NA,NA,NA,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,Silver,Summer
+184,Ragy Abdel Hady,M,30,186,100,Egypt,EGY,2004,Athina,Water Polo,Water Polo Men's Water Polo,Gold,Summer
+185,Osman Abdel Hafeez,M,35,NA,NA,Egypt,EGY,1952,Helsinki,Fencing,"Fencing Men's epee, Team",Silver,Summer
+186,Mohamed Abdel Hafiz,M,NA,NA,NA,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,Gold,Summer
+187,Moustafa Ali Abdel Halim,M,32,152,52,Egypt,EGY,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,Gold,Summer
+188,Mohamed Abdel Hamed,M,24,193,82,Egypt,EGY,1984,Los Angeles,Volleyball,Volleyball Men's Volleyball,Gold,Summer
+189,Hwad Ibrahim Abdel Hamid Lumomba,M,NA,162,57,Sudan,SUD,1968,Mexico City,Boxing,Boxing Men's Featherweight,Gold,Summer
+190,Ibrahim Abdel Hamid,M,NA,NA,NA,Egypt,EGY,1948,London,Wrestling,"Wrestling Men's Featherweight, Freestyle",Gold,Summer
+191,Tamer Mohamed Abdel Hamid,M,20,NA,NA,Egypt,EGY,1992,Barcelona,Football,Football Men's Football,Gold,Summer
+192,Ahmed El-Sayed Abdel Hamid Mobarak,M,25,189,85,Egypt,EGY,1972,Munich,Basketball,Basketball Men's Basketball,Bronze,Summer
+193,Dorri Abdel Kader Said,M,33,NA,NA,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,Bronze,Summer
+194,Moustafa Mounib Abdel Kader,M,NA,176,67,United Arab Republic,UAR,1960,Roma,Athletics,Athletics Men's 100 metres,NA,Summer
+195,Mohamed Ali Abdel Kerim,M,32,NA,81,United Arab Republic,UAR,1960,Roma,Weightlifting,Weightlifting Men's Light-Heavyweight,Silver,Summer
+196,Mohamed Abdel Khaled,M,24,183,76,Tunisia,TUN,1976,Montreal,Handball,Handball Men's Handball,Gold,Summer
+197,Abdel Latif Abdel Latif,M,28,172,68,Egypt,EGY,1988,Seoul,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",NA,Summer
+198,Walid Abdel Maksoud,M,29,NA,NA,Egypt,EGY,2008,Beijing,Handball,Handball Men's Handball,Silver,Summer
+199,Amir Abdel Meguid,M,27,178,67,Egypt,EGY,1988,Seoul,Basketball,Basketball Men's Basketball,Gold,Summer
+200,Mohamed Abdel Mohamed,M,24,NA,NA,Egypt,EGY,1992,Barcelona,Handball,Handball Men's Handball,NA,Summer
+201,Karim Abdel Mohsen,M,25,188,92,Egypt,EGY,2004,Athina,Water Polo,Water Polo Men's Water Polo,Bronze,Summer
+202,Awad Abdel Nabi Awad,M,23,198,80,Egypt,EGY,1976,Montreal,Basketball,Basketball Men's Basketball,Silver,Summer
+203,Ahmed Abdel Naeim,M,31,197,87,Egypt,EGY,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,Gold,Summer
+204,Moustafa Abdel Naser,M,21,176,74,Libya,LBA,1996,Atlanta,Athletics,Athletics Men's 400 metres,NA,Summer
+205,Ali Abdel Radi,M,24,NA,NA,Egypt,EGY,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,Gold,Summer
+206,Amin Abdel Rahman,M,22,NA,NA,Egypt,EGY,1964,Tokyo,Water Polo,Water Polo Men's Water Polo,Silver,Summer
+207,Mohamed Fathallah Abdel Rahman,M,37,NA,NA,Egypt,EGY,1952,Helsinki,Fencing,"Fencing Men's Sabre, Team",NA,Summer
+208,Fathi Ali Abdel Rahman,M,20,NA,NA,Egypt,EGY,1952,Helsinki,Boxing,Boxing Men's Welterweight,Silver,Summer
+209,Ibrahim Abdel Rahman,M,NA,NA,NA,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,Bronze,Summer
+210,Khaled Abdel Rahman,M,27,188,79,Egypt,EGY,1984,Los Angeles,Volleyball,Volleyball Men's Volleyball,NA,Summer
+211,Sameh Abdel Rahman,M,21,NA,NA,Egypt,EGY,1964,Tokyo,Fencing,"Fencing Men's Foil, Team",Bronze,Summer
+212,Yasser Abdel Rahman Sakr,M,30,180,120,Egypt,EGY,2008,Beijing,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",Bronze,Summer
+213,Samy Abdel Razek,M,36,170,60,Egypt,EGY,2016,Rio de Janeiro,Shooting,"Shooting Men's Free Pistol, 50 metres",NA,Summer
+214,Mohamed Youssef Abdel Razik,M,21,NA,NA,Egypt,EGY,1992,Barcelona,Football,Football Men's Football,Silver,Summer
+215,Ibrahim Ahmed Abdel Rehim,M,21,190,83,Egypt,EGY,2004,Athina,Fencing,"Fencing Men's epee, Team",NA,Summer
+216,Kamal Abdel Rehim,M,26,190,95,Egypt,EGY,2000,Sydney,Rowing,Rowing Men's Coxless Fours,Gold,Summer
+217,Reskalla Mohamed Abdel Rehim,M,22,165,48,Egypt,EGY,2000,Sydney,Boxing,Boxing Men's Light-Flyweight,NA,Summer
+218,Ahmed Ali Abdel Samad,M,27,195,95,Egypt,EGY,2000,Sydney,Boxing,Boxing Men's Super-Heavyweight,Silver,Summer
+219,Ali Abdel Sami,M,28,NA,NA,Egypt,EGY,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,NA,Summer
+220,Mohamed Abdel Sami,M,NA,NA,NA,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,Bronze,Summer
+221,Sameh Abdel Waress Muhammad,M,24,NA,NA,Egypt,EGY,1996,Atlanta,Handball,Handball Men's Handball,Gold,Summer
+222,Mohamed Said Abdel Wehab,M,22,157,48,Egypt,EGY,1976,Montreal,Boxing,Boxing Men's Light-Flyweight,NA,Summer
+223,Mahmoud Abdel-Aal,M,19,NA,NA,Egypt,EGY,1948,London,Gymnastics,Gymnastics Men's Pommelled Horse,Silver,Summer
+224,Mohamed Abdel-El,M,NA,NA,NA,Egypt,EGY,1948,London,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",NA,Summer
+225,Shaimaa Abdel-Latif-Hashad,F,35,165,57,Egypt,EGY,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",Bronze,Summer
+226,Sanad Bushara Abdel-Nadif,M,NA,NA,NA,Sudan,SUD,1972,Munich,Football,Football Men's Football,NA,Summer
+227,Ahmed Abdelaal,M,27,188,89,Egypt,EGY,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,Bronze,Summer
+228,Mahmoud Abdelaal,M,24,176,60,Egypt,EGY,2016,Rio de Janeiro,Boxing,Boxing Men's Lightweight,NA,Summer
+229,Mohamed Ali Abdelaal,M,26,175,81,Egypt,EGY,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,Bronze,Summer
+230,Moustafa Abdelal,M,NA,NA,NA,Egypt,EGY,1948,London,Gymnastics,Gymnastics Men's Pommelled Horse,NA,Summer
+231,Mahmod Abdelaly,M,41,NA,NA,Egypt,EGY,2008,Beijing,Shooting,"Shooting Men's Air Pistol, 10 metres",Silver,Summer
+232,Ibrahim Ramadan Ibrahim Abdelbaki,M,28,173,77,Egypt,EGY,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middleweight,NA,Summer
+233,Aziza Abdelfattah,F,17,159,51,Egypt,EGY,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Summer
+234,Abdalla Abdelgadir El-Sheikh,M,21,170,58,Sudan,SUD,2008,Beijing,Athletics,"Athletics Men's 1,500 metres",Silver,Summer
+235,Magdi Abdelghani Sayed Ahmed,M,25,NA,NA,Egypt,EGY,1984,Los Angeles,Football,Football Men's Football,Silver,Summer
+236,Ragab Abdelhay Saad Abdelrazek Abdallah,M,25,170,94,Egypt,EGY,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middle-Heavyweight,NA,Summer
+237,Ben Ahmed Abdelkrim,M,20,NA,NA,France,FRA,1952,Helsinki,Athletics,"Athletics Men's 5,000 metres",Bronze,Summer
+238,Mohamed Abdellah,M,40,170,70,Egypt,EGY,2008,Beijing,Shooting,"Shooting Men's Air Rifle, 10 metres",Bronze,Summer
+239,Ayoub Abdellaoui,M,23,184,68,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,Silver,Summer
+240,Leila Abdelmoez,F,19,160,46,Egypt,EGY,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,NA,Summer
+241,Sayed Abdelmonem Sayed Hamed,M,23,170,60,Egypt,EGY,2012,London,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",Bronze,Summer
+242,Ahmed Abdelrahman,M,20,165,60,Egypt,EGY,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,Gold,Summer
+243,Ihab Abdelrahman El-Sayed Abdelrahman,M,23,194,96,Egypt,EGY,2012,London,Athletics,Athletics Men's Javelin Throw,Silver,Summer
+244,Raouf Abdelraouf,M,22,167,63,Egypt,EGY,2000,Sydney,Gymnastics,Gymnastics Men's Pommelled Horse,NA,Summer
+245,Abouelfetoh Abdelrazek,M,21,NA,NA,Egypt,EGY,2008,Beijing,Handball,Handball Men's Handball,Bronze,Summer
+246,Mamdouh Abdelrehim,M,26,207,90,Egypt,EGY,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,Silver,Summer
+247,El-Hachemi Abdenouz,M,24,170,63,Algeria,ALG,1980,Moskva,Athletics,"Athletics Men's 5,000 metres",NA,Summer
+248,Rda Abdenouz,M,23,170,63,Algeria,ALG,1992,Barcelona,Athletics,Athletics Men's 800 metres,Gold,Summer
+249,Mouni Abderrahim,F,26,173,60,Algeria,ALG,2012,London,Volleyball,Volleyball Women's Volleyball,Silver,Summer
+250,Saeid Morad Abdevali,M,26,170,80,Iran,IRI,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",Bronze,Summer
+251,Bashir Abdi,M,27,176,56,Belgium,BEL,2016,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",Silver,Summer
+252,Youcef Abdi,M,34,178,66,Australia,AUS,2012,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",Gold,Summer
+253,Jamal Abdi Hassan Abdullah,M,23,177,65,Qatar,QAT,1996,Atlanta,Athletics,"Athletics Men's 3,000 metres Steeplechase",Silver,Summer
+254,Talal Omar Abdillahi,M,25,170,57,Djibouti,DJI,1992,Barcelona,Athletics,Athletics Men's Marathon,NA,Summer
+255,Mahmoud Ahmed Abdin,M,41,NA,NA,Egypt,EGY,1948,London,Fencing,"Fencing Men's Foil, Team",Bronze,Summer
+256,"Abdihakim ""Abdi"" Abdirahman",M,35,178,61,United States,USA,2012,London,Athletics,Athletics Men's Marathon,Silver,Summer
+257,Ali Abdo,M,27,169,74,Australia,AUS,2008,Beijing,Wrestling,"Wrestling Men's Middleweight, Freestyle",Gold,Summer
+258,Hamza Abdo,M,17,NA,NA,Palestine,PLE,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,NA,Summer
+259,Reema Abdo,F,21,173,59,Canada,CAN,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,Summer
+260,Ahmed Abdo Mustafa,M,NA,NA,NA,Sudan,SUD,1972,Munich,Football,Football Men's Football,NA,Summer
+261,Nasrollah Abdollahi,M,24,183,75,Iran,IRI,1976,Montreal,Football,Football Men's Football,Silver,Summer
+262,Yhyacinthe Mewoli Abdon,M,26,176,60,Cameroon,CMR,2012,London,Boxing,Boxing Men's Lightweight,Bronze,Summer
+263,Hassane Abdou,M,23,185,67,Comoros,COM,1996,Atlanta,Athletics,Athletics Men's 400 metres,NA,Summer
+264,Justin Abdou,M,29,175,85,Canada,CAN,2000,Sydney,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",Gold,Summer
+265,Moustafa Ahmed Ismail Abdou Ali Arfah,M,31,NA,NA,Egypt,EGY,1984,Los Angeles,Football,Football Men's Football,NA,Summer
+266,Raouf Abdou,M,22,165,60,Egypt,EGY,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,Silver,Summer
+267,Mohamed Abdou El-Souad,M,23,180,76,Egypt,EGY,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,Silver,Summer
+268,Brahim Daoud Abdoulaye,M,25,NA,71,Chad,CHA,1996,Atlanta,Athletics,Athletics Men's 200 metres,Silver,Summer
+269,Fawziya Abdoulkarim,F,27,180,67,Cameroon,CMR,2016,Rio de Janeiro,Volleyball,Volleyball Women's Volleyball,Silver,Summer
+270,Alaa El-Din Abdoun,M,23,188,78,Egypt,EGY,1988,Seoul,Basketball,Basketball Men's Basketball,Bronze,Summer
+271,Ibrahim Abdrabbou,M,27,NA,NA,Egypt,EGY,1952,Helsinki,Boxing,Boxing Men's Bantamweight,NA,Summer
+272,Berik Abdrakhmanov,M,30,165,60,Kazakhstan,KAZ,2016,Rio de Janeiro,Boxing,Boxing Men's Lightweight,Bronze,Summer
+273,Maizurah Abdul Rahim,F,17,147,50,Brunei,BRU,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,Bronze,Summer
+274,Mehdi Fahim Abdul Al-Sada,M,24,184,70,Iraq,IRQ,1980,Moskva,Athletics,Athletics Men's 4 x 400 metres Relay,Bronze,Summer
+275,Bashir Abdullah Abdul Aziz,M,22,180,73,Kuwait,KUW,2000,Sydney,Football,Football Men's Football,NA,Summer
+276,Chairil Anwar Abdul Aziz,M,24,163,61,Malaysia,MAS,1996,Atlanta,Hockey,Hockey Men's Hockey,Silver,Summer
+276,Chairil Anwar Abdul Aziz,M,28,163,61,Malaysia,MAS,2000,Sydney,Hockey,Hockey Men's Hockey,Gold,Summer
+277,Shaimaa Abdul Aziz,F,27,160,53,Egypt,EGY,2008,Beijing,Table Tennis,Table Tennis Women's Singles,NA,Summer
+278,Mohamed Abdul Hadj,M,25,NA,NA,Malaysia,MAS,1992,Barcelona,Hockey,Hockey Men's Hockey,Gold,Summer
+279,Jefri Kiko Bolkiah Abdul Hakeem,M,27,172,90,Brunei,BRU,2000,Sydney,Shooting,Shooting Men's Skeet,Bronze,Summer
+280,Mohamed Abdul Hamid,M,19,175,55,Sudan,SUD,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,NA,Summer
+281,S. Abdul Hamid,M,NA,NA,NA,India,IND,1928,Amsterdam,Athletics,Athletics Men's 400 metres Hurdles,Bronze,Summer
+282,Hadi Abdul Jabbar,M,34,180,117.5,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Heavyweight,Silver,Summer
+283,Mohamed Abed Abdul Jawad,M,22,169,65,Saudi Arabia,KSA,1984,Los Angeles,Football,Football Men's Football,Gold,Summer
+284,Anouar Abdul Kader,M,27,NA,NA,Syria,SYR,1980,Moskva,Football,Football Men's Football,Silver,Summer
+285,Talal Hassoun Abdul Kader,M,NA,NA,82,Iraq,IRQ,1980,Moskva,Weightlifting,Weightlifting Men's Light-Heavyweight,NA,Summer
+286,Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem,M,23,169,60,Kuwait,KUW,1976,Montreal,Athletics,Athletics Men's 4 x 100 metres Relay,NA,Summer
+287,Taha Abdul Karim,M,20,156,59,Iraq,IRQ,1960,Roma,Boxing,Boxing Men's Lightweight,Bronze,Summer
+288,Masoud Abdul Khamis Al-Rahman,M,17,176,68,Qatar,QAT,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,Gold,Summer
+289,Abdul Haji Abdul Latheef,M,17,168,54,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's Marathon,NA,Summer
+290,Fatima Abdul Majeed Hameed Al-Kirashi,F,14,NA,NA,Bahrain,BRN,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,Gold,Summer
+291,Majed Ahmed Abdul Mohamed,M,26,172,70,Saudi Arabia,KSA,1984,Los Angeles,Football,Football Men's Football,Silver,Summer
+292,Firouz Abdul Mohammadian,M,34,178,74,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,Bronze,Summer
+293,Hussam Abdul Rahman,M,30,175,80,Jordan,JOR,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",NA,Summer
+294,Mohamed Ghulom Abdul Rahman,M,NA,175,85,Bahrain,BRN,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",Silver,Summer
+295,Suleman Abdul Rahman,M,29,174,55,Ethiopia,ETH,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",Gold,Summer
+296,Zambrose Abdul Rahman,M,24,173,64,Malaysia,MAS,1968,Mexico City,Athletics,Athletics Men's 400 metres Hurdles,Gold,Summer
+297,Lala Abdul Rashid,M,38,169,91,Pakistan,PAK,1960,Roma,Hockey,Hockey Men's Hockey,Gold,Summer
+298,Muhammad Abdul Rashid,M,23,181,72,Pakistan,PAK,1964,Tokyo,Hockey,Hockey Men's Hockey,Silver,Summer
+299,Dana Abdul Razak (Hussain-),F,26,163,56,Iraq,IRQ,2012,London,Athletics,Athletics Women's 100 metres,NA,Summer
+300,A. Abdul Razzak,M,NA,178,70,Iraq,IRQ,1960,Roma,Athletics,Athletics Men's Triple Jump,Gold,Summer
+301,Mohamed Abdul Razzak,M,NA,177,68,Iraq,IRQ,1960,Roma,Athletics,Athletics Men's High Jump,Gold,Summer
+302,Muhammad Abdul Razzaq,M,NA,NA,NA,Pakistan,PAK,1948,London,Hockey,Hockey Men's Hockey,Gold,Summer
+303,Hazim Abdul Ridha,M,NA,160,52,Iraq,IRQ,1980,Moskva,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",Bronze,Summer
+304,Rauf Abdul Seoud,M,33,NA,NA,Egypt,EGY,1948,London,Diving,Diving Men's Platform,Bronze,Summer
+305,Samir Ahmed Abdul Shakour,M,24,180,72,Saudi Arabia,KSA,1984,Los Angeles,Football,Football Men's Football,NA,Summer
+306,Nabil Abdul Tahlak,M,39,NA,NA,United Arab Emirates,UAE,1996,Atlanta,Shooting,"Shooting Men's Air Rifle, 10 metres",Bronze,Summer
+307,Fahmi Ahmed Abdul Wahab Al-Tahri,M,23,NA,NA,North Yemen,YAR,1988,Seoul,Athletics,Athletics Men's 800 metres,Silver,Summer
+308,Mohamed Abdul Wahab Al-Salah,M,21,NA,NA,Kuwait,KUW,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,NA,Summer
+309,Qazi Abdul Waheed,M,30,NA,NA,Pakistan,PAK,1952,Helsinki,Hockey,Hockey Men's Hockey,Bronze,Summer
+310,Patmawati Abdul Wahid,F,32,158,58,Indonesia,INA,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,Silver,Summer
+311,Haidar Abdul-Amir Hassan,M,21,185,80,Iraq,IRQ,2004,Athina,Football,Football Men's Football,Gold,Summer
+312,Haidar Abdul-Razzaq Hassan,M,22,175,75,Iraq,IRQ,2004,Athina,Football,Football Men's Football,NA,Summer
+313,"Lawal Kolawole ""Kola"" Abdulai",M,25,172,66,Nigeria,NGR,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,Bronze,Summer
+314,"Rukayatu ""Ruky"" Abdulai",F,22,180,59,Canada,CAN,2008,Beijing,Athletics,Athletics Women's Long Jump,Silver,Summer
+315,Mona Ahmad Abdulaziz Hassanein,F,26,166,61,Egypt,EGY,2012,London,Fencing,"Fencing Women's epee, Individual",Gold,Summer
+316,Zagalav Abdulbekovich Abdulbekov,M,26,160,62,Soviet Union,URS,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Freestyle",Gold,Summer
+317,Roosevelt M. Abdulgafur,M,24,181,73,Philippines,PHI,1968,Mexico City,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Gold,Summer
+318,Ahmed Abdulkareem Ahmed,M,20,NA,NA,Iraq,IRQ,2012,London,Boxing,Boxing Men's Welterweight,NA,Summer
+319,Gamal Ahmed Abdulla,M,28,NA,NA,Egypt,EGY,1992,Barcelona,Hockey,Hockey Men's Hockey,Gold,Summer
+320,Mohamed Sayed Abdulla,M,18,NA,NA,Egypt,EGY,1992,Barcelona,Hockey,Hockey Men's Hockey,Silver,Summer
+321,Ahmad Hassan Abdullah,M,27,164,55,Qatar,QAT,2008,Beijing,Athletics,"Athletics Men's 10,000 metres",Bronze,Summer
+322,Ahmed Ghanim Abdullah,M,20,184,79,Egypt,EGY,1988,Seoul,Swimming,Swimming Men's 200 metres Butterfly,NA,Summer
+323,Aquil Hashim Abdullah (Shumate-),M,31,187,83,United States,USA,2004,Athina,Rowing,Rowing Men's Double Sculls,Gold,Summer
+324,Atallah Abdullah,M,32,NA,88,Iraq,IRQ,1992,Barcelona,Weightlifting,Weightlifting Men's Middle-Heavyweight,Silver,Summer
+325,Magdy Ahmed Abdullah,M,25,NA,NA,Egypt,EGY,1992,Barcelona,Hockey,Hockey Men's Hockey,NA,Summer
+326,Mohamed Abdullah,M,NA,176,66,United Arab Emirates,UAE,1988,Seoul,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Summer
+327,Mohamed Samy Abdullah,M,NA,165,65,United Arab Emirates,UAE,1984,Los Angeles,Athletics,Athletics Men's 100 metres,NA,Summer
+328,Mohamed Abdullah,M,NA,180,76,Iraq,IRQ,1960,Roma,Athletics,Athletics Men's Pole Vault,Bronze,Summer
+329,Osama Abdullah,M,21,NA,NA,Kuwait,KUW,1992,Barcelona,Football,Football Men's Football,Silver,Summer
+330,Tewfik Abdullah,M,23,NA,NA,Egypt,EGY,1920,Antwerpen,Football,Football Men's Football,NA,Summer
+331,Wan Azlan Abdullah,M,25,188,77,Malaysia,MAS,2000,Sydney,Swimming,Swimming Men's 400 metres Individual Medley,Bronze,Summer
+332,Zarinah Abdullah,F,25,NA,NA,Singapore,SGP,1996,Atlanta,Badminton,Badminton Women's Singles,Gold,Summer
+333,Abdel Wahab Abdullah Salih,M,NA,190,75,Sudan,SUD,1972,Munich,Boxing,Boxing Men's Middleweight,Silver,Summer
+334,Abubakar Sadiq Abdullahi,M,28,NA,NA,Nigeria,NGR,1988,Seoul,Tennis,Tennis Men's Singles,NA,Summer
+335,Abdulqdir Abdullayev,M,28,188,91,Azerbaijan,AZE,2016,Rio de Janeiro,Boxing,Boxing Men's Heavyweight,Gold,Summer
+336,Arif Yadulla Abdullayev,M,32,164,60,Azerbaijan,AZE,2000,Sydney,Wrestling,"Wrestling Men's Featherweight, Freestyle",Silver,Summer
+337,Mukhammad Kadyr Abdullayev,M,26,169,63,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Light-Welterweight,Gold,Summer
+338,Muminzhon Abdullayev,M,26,190,130,Uzbekistan,UZB,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",Silver,Summer
+339,Namiq Yadulla Abdullayev,M,25,167,55,Azerbaijan,AZE,1996,Atlanta,Wrestling,"Wrestling Men's Flyweight, Freestyle",Silver,Summer
+340,Laye Abdullayeva,F,21,170,47,Azerbaijan,AZE,2012,London,Athletics,"Athletics Women's 5,000 metres",NA,Summer
+341,lqar Abdulov,M,27,175,74,Azerbaijan,AZE,2008,Beijing,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",Gold,Summer
+342,Abdullah Abdulrahman Zeyab,M,16,177,NA,Kuwait,KUW,1972,Munich,Swimming,Swimming Men's 100 metres Freestyle,Silver,Summer
+343,Abir Abdulrahman Khalil Mahmoud Khalil,F,16,162,72,Egypt,EGY,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,Gold,Summer
+344,Amer Abdulrahman Abdallah Hussain Al-Hammadi,M,23,168,68,United Arab Emirates,UAE,2012,London,Football,Football Men's Football,NA,Summer
+345,Omar Abdulrahman Ahmad Al-Raaqi Al-Amoudi,M,20,168,62,United Arab Emirates,UAE,2012,London,Football,Football Men's Football,Gold,Summer
+346,Shaza Yahia Nazih Abdulrahman El-Sayed,F,19,170,59,Egypt,EGY,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Summer
+347,Najim Abdulrazak Al-Enazy,M,18,150,60,Kuwait,KUW,1980,Moskva,Athletics,Athletics Men's Discus Throw,NA,Summer
+348,Zeyad Abdulrazak Al-Khudhur Al-Enazy,M,23,181,66,Kuwait,KUW,1992,Barcelona,Athletics,Athletics Men's 110 metres Hurdles,Gold,Summer
+349,Waheed Abdulridha Waheed Karaawi,M,33,178,74,Iraq,IRQ,2016,Rio de Janeiro,Boxing,Boxing Men's Middleweight,NA,Summer
+350,Mohamed Abdultwab Ibrahim Abd El-Baki,M,25,162,69,Egypt,EGY,2012,London,Weightlifting,Weightlifting Men's Lightweight,Gold,Summer
+351,Julius Shareef Abdur-Rahim,M,23,202,104,United States,USA,2000,Sydney,Basketball,Basketball Men's Basketball,Gold,Summer
